@@ -1,0 +1,7 @@
+C:\Users\Lautaro LG\source\repos\Caida-de-Copos\TP1-[LautaroNavarro]\bin\Debug\TP1-[LautaroNavarro].exe.config
+C:\Users\Lautaro LG\source\repos\Caida-de-Copos\TP1-[LautaroNavarro]\bin\Debug\TP1-[LautaroNavarro].exe
+C:\Users\Lautaro LG\source\repos\Caida-de-Copos\TP1-[LautaroNavarro]\bin\Debug\TP1-[LautaroNavarro].pdb
+C:\Users\Lautaro LG\source\repos\Caida-de-Copos\TP1-[LautaroNavarro]\obj\Debug\TP1-[LautaroNavarro].csproj.AssemblyReference.cache
+C:\Users\Lautaro LG\source\repos\Caida-de-Copos\TP1-[LautaroNavarro]\obj\Debug\TP1-[LautaroNavarro].csproj.CoreCompileInputs.cache
+C:\Users\Lautaro LG\source\repos\Caida-de-Copos\TP1-[LautaroNavarro]\obj\Debug\TP1-[LautaroNavarro].exe
+C:\Users\Lautaro LG\source\repos\Caida-de-Copos\TP1-[LautaroNavarro]\obj\Debug\TP1-[LautaroNavarro].pdb
