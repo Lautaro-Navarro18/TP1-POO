@@ -76,7 +76,7 @@ namespace CaidadeCopos
                 GenerarCopo();
                 MoverCopos();
                 EliminarFilasCompletas();
-                MostrarEncabezado();
+                //MostrarEncabezado();
                 Thread.Sleep(config.VelocidadCaida);
             }
         }
@@ -160,11 +160,11 @@ namespace CaidadeCopos
                 copo.Mostrar();
             }
         }
-        static void MostrarEncabezado()
+        /*static void MostrarEncabezado()
         {
             Console.SetCursorPosition(0, config.Filas + 1);
             Console.WriteLine($"Copos activos: {copos.Count}");
             Console.Write($"Copos borrados: {contadorBorrados}");
-        }
+        }*/
     }
 }
