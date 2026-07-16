@@ -67,8 +67,6 @@ namespace CaidadeCopos
         static void Main(string[] args)
         {
             Console.CursorVisible = false;
-            Console.SetWindowSize(Math.Max(config.Columnas + 2, Console.WindowWidth),
-            Math.Max(config.Filas + 3, Console.WindowHeight));
             Console.Clear();
             ocupado = new bool[config.Filas, config.Columnas];
             while (true)
